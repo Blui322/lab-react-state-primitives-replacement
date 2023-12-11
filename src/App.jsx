@@ -1,3 +1,4 @@
+import React from "react";
 import BookRecommendations from "./components/BookRecommendations";
 
 const App = () => {
